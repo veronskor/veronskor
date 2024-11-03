@@ -2,7 +2,7 @@
 
 👩‍💻 Watch me live as I dive into Python, R, ML and bioinformatics! Spoiler alert: I might end up debugging my life instead! 💁‍♀️
 
-(https://media1.tenor.com/m/JEuupMZB5HwAAAAd/michael-scott-flip.gif)
+![gif](https://media1.tenor.com/m/JEuupMZB5HwAAAAd/michael-scott-flip.gif)
 <!--
 **veronskor/veronskor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
