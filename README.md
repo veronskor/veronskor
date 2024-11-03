@@ -3,7 +3,7 @@
 ### 👩‍💻 Watch me live as I dive into Python, R, ML and bioinformatics! Spoiler alert: I might end up debugging my life instead! 💁‍♀️
 
 <div align="center">
-    <img src="https://media1.tenor.com/m/qc8QHhSMfngAAAAd/bepalzo-monkey.gif" alt="Майкл Скотт" width="500"/>
+    <img src="https://media1.tenor.com/m/YjN3ocDZc2YAAAAd/monkey-dumb.gif" alt="Обезьяна" width="500"/>
 </div>
 
 
