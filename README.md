@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, world! 👋
+
+👩‍💻 Watch me live as I dive into Python, R, ML and bioinformatics! Spoiler alert: I might end up debugging my life instead! 💁‍♀️
 
 <!--
 **veronskor/veronskor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
