@@ -1,6 +1,6 @@
-## Hello, world! 👋
+# Hello, world! 👋
 
-👩‍💻 Watch me live as I dive into Python, R, ML and bioinformatics! Spoiler alert: I might end up debugging my life instead! 💁‍♀️
+### 👩‍💻 Watch me live as I dive into Python, R, ML and bioinformatics! Spoiler alert: I might end up debugging my life instead! 💁‍♀️
 
 <div align="center">
     <img src="https://media1.tenor.com/m/JEuupMZB5HwAAAAd/michael-scott-flip.gif" alt="Майкл Скотт" width="500"/>
