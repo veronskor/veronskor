@@ -9,7 +9,7 @@
 ## 🥰 facts about me   
 - Bachelor's degree in Biotechnology at St. Petersburg Institute of Technology (2020-2024)
 - I did an internship at the Scientific Research Institute of Vaccines and Serums (2023)
-- I studied the microrna of adipose tissue in the laboratory of human molecular genetics (2023-2024)
+- I researched the microRNA of adipose tissue in the Laboratory of human molecular genetics (2023-2024)
 - 🔥 And now I'm studying at ITMO University for a master's degree in Applied Genomics 🔥
   
 ## 💻 technologies
@@ -20,9 +20,11 @@
 [![codewars](https://www.codewars.com/users/veronskor/badges/small)](https://www.codewars.com/users/veronskor)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=FFD210&width=435&lines=By+the+way%2C+I+also+like+to%3A" alt="Typing SVG" /></a>  
-🐶 walking my dog  
-🍿 watching good movies  
-🎥 making videos  
+- 🐶 walking my dog
+- 🍿 watching good movies
+- 🎬 making videos
+- 🪕 playing the ukulele
+- 🥏 running in ultimate frisbee  
 <!--
 **veronskor/veronskor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
